@@ -1,0 +1,24 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoCastroCarreon/fibonacci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoCastroCarreon/fibonacci/issues"
+  },
+  "homepage": "https://github.com/MarcoCastroCarreon/fibonacci#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
